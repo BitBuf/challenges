@@ -9,7 +9,7 @@
     <option name="queryCriteria">
       <map>
         <entry key="LeetCodeChallengesView-lastUI" value="QueryParameters" />
-        <entry key="LeetCodeParametersQueryPresenter-criteria" value="{&quot;selectedCategory&quot;:null,&quot;selectedFavorite&quot;:null,&quot;selectedDifficulty&quot;:null,&quot;selectedStatus&quot;:null,&quot;tags&quot;:[],&quot;orderBy&quot;:null}" />
+        <entry key="LeetCodeParametersQueryPresenter-criteria" value="{&quot;selectedCategory&quot;:null,&quot;selectedFavorite&quot;:null,&quot;selectedDifficulty&quot;:null,&quot;selectedStatus&quot;:null,&quot;tags&quot;:[],&quot;orderBy&quot;:[&quot;AC_RATE&quot;,&quot;Descending&quot;]}" />
         <entry key="LeetCodeParametersQueryPresenter-pageSize" value="20" />
       </map>
     </option>
