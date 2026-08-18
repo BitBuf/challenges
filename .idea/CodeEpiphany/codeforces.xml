@@ -9,7 +9,7 @@
     <option name="queryCriteria">
       <map>
         <entry key="CodeForcesChallengesView-lastUI" value="QueryParameters" />
-        <entry key="CodeForcesParametersQueryPresenter-criteria" value="{&quot;selectedDifficulty&quot;:null,&quot;selectedTags&quot;:[],&quot;orderBy&quot;:null}" />
+        <entry key="CodeForcesParametersQueryPresenter-criteria" value="{&quot;selectedDifficulty&quot;:&quot;easy&quot;,&quot;selectedTags&quot;:[],&quot;orderBy&quot;:[&quot;Rating&quot;,&quot;Ascending&quot;]}" />
         <entry key="CodeForcesParametersQueryPresenter-pageSize" value="20" />
       </map>
     </option>
