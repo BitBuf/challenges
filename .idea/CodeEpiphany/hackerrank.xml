@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.hackerrank.settings">
+    <option name="languageSettings">
+      <list>
+        <LanguageSettingsState sourceFolder="C:\Users\dylan\gldc\challenges\hackerrank" language="javascript" languageVersion="" fileNameTemplate="${challenge.slug}" codeTemplate="// HackerRank ${challenge.difficulty} - ${challenge.name}&#10;&#10;/*${challenge.testCases}&#10;*/&#10;&#10;${challenge.code}&#10;" />
+      </list>
+    </option>
+    <option name="queryCriteria">
+      <map>
+        <entry key="HackerRankChallengesView-latestUI" value="QueryParameters" />
+        <entry key="HackerRankQueryParametersPresenter-criteria" value="{&quot;selectedDomain&quot;:{&quot;id&quot;:2,&quot;name&quot;:&quot;Artificial Intelligence&quot;,&quot;slug&quot;:&quot;ai&quot;,&quot;contest&quot;:&quot;master&quot;,&quot;sub_domains&quot;:[{&quot;name&quot;:&quot;A* Search&quot;,&quot;slug&quot;:&quot;astar-search&quot;},{&quot;name&quot;:&quot;Statistics and Machine Learning&quot;,&quot;slug&quot;:&quot;machine-learning&quot;},{&quot;name&quot;:&quot;Digital Image Analysis&quot;,&quot;slug&quot;:&quot;image-analysis&quot;},{&quot;name&quot;:&quot;Natural Language Processing&quot;,&quot;slug&quot;:&quot;nlp&quot;},{&quot;name&quot;:&quot;Probability &amp; Statistics - Foundations&quot;,&quot;slug&quot;:&quot;statistics-foundations&quot;}]},&quot;selectedSubdomains&quot;:[],&quot;selectedDifficulties&quot;:[],&quot;selectedStatus&quot;:null,&quot;selectedSkills&quot;:[]}" />
+        <entry key="HackerRankQueryParametersPresenter-pageSize" value="20" />
+      </map>
+    </option>
+  </component>
+</project>

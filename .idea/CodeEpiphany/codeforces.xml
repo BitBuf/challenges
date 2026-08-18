@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.wenjun.codeepiphany.codeforces.settings">
+    <option name="languageSettings">
+      <list>
+        <LanguageSettingsState sourceFolder="C:\Users\dylan\gldc\challenges\codeforces" language="javascript" languageVersion="(Node.js 15.8.0 64bit)" fileNameTemplate="$!velocity.snakeCaseName(${challenge.name})" codeTemplate="// CodeForces ${challenge.rating} - ${challenge.name}&#10;&#10;/*${challenge.testCases}&#10;*/&#10;&#10;${beginRegion}&#10;&#10;&#10;${endRegion}&#10;" />
+      </list>
+    </option>
+    <option name="queryCriteria">
+      <map>
+        <entry key="CodeForcesChallengesView-lastUI" value="QueryParameters" />
+        <entry key="CodeForcesParametersQueryPresenter-criteria" value="{&quot;selectedDifficulty&quot;:null,&quot;selectedTags&quot;:[],&quot;orderBy&quot;:null}" />
+        <entry key="CodeForcesParametersQueryPresenter-pageSize" value="20" />
+      </map>
+    </option>
+  </component>
+</project>

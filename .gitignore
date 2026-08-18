@@ -88,6 +88,12 @@ fabric.properties
 
 !.idea/codeStyles
 !.idea/runConfigurations
+!.idea/CodeEpiphany
+.idea/CodeEpiphany/*
+!.idea/CodeEpiphany/codeforces.xml
+!.idea/CodeEpiphany/leetcode.xml
+!.idea/CodeEpiphany/leetcodecn.xml
+!.idea/CodeEpiphany/hackerrank.xml
 
 ### Linux ###
 *~
